@@ -1,0 +1,32 @@
+First one in sparse matrix format
+0, 0, 2
+0, 1, 2
+0, 2, 2
+First one in normal matrix format
+2	2	2	
+0	0	0	
+0	0	0	
+Second one in sparse matrix format
+0, 0, 2
+0, 1, 2
+0, 2, 2
+Second one in normal matrix format
+2	2	2	
+0	0	0	
+0	0	0	
+After Transpose first one
+2	0	0	
+2	0	0	
+2	0	0	
+After Transpose second one
+2	0	0	
+2	0	0	
+2	0	0	
+Multiplication of matrices in sparse matrix form:
+0, 0, 4
+0, 1, 4
+0, 2, 4
+Addition of matrices in sparse matrix form:
+0, 0, 4
+0, 1, 4
+0, 2, 4
